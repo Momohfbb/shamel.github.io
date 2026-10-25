@@ -99,6 +99,7 @@ def head(lang, path, title, desc):
 <meta property="og:site_name" content="{esc(name)}">
 <meta property="og:type" content="website">
 {f'<meta property="og:image" content="{BASE}/img/logo-original.jpg">' if BASE else ''}
+{f'<meta name="google-site-verification" content="{esc(SITE["googleVerification"])}">' if SITE.get("googleVerification") else ''}
 {alt}<link rel="icon" type="image/png" href="{p('img/favicon.png')}">
 <link rel="apple-touch-icon" href="{p('img/apple-touch-icon.png')}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
