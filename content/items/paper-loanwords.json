@@ -1,0 +1,25 @@
+{
+  "id": "arabic-loanwords-romance",
+  "type": "paper",
+  "field": "language",
+  "date": "2026-10-08",
+  "pdf": "",
+  "title": {
+    "ar": "الألفاظ العربية في اللغات الرومانسية: مقارنة بين الإسبانية والإيطالية والفرنسية",
+    "en": "Arabic loanwords in the Romance languages: a comparison of Spanish, Italian and French",
+    "es": "Arabismos en las lenguas romances: una comparación entre el español, el italiano y el francés",
+    "it": "Arabismi nelle lingue romanze: un confronto tra spagnolo, italiano e francese",
+    "fr": "Les emprunts arabes dans les langues romanes : une comparaison entre l'espagnol, l'italien et le français"
+  },
+  "summary": {
+    "ar": "تقارن هذه الورقة طرق دخول الألفاظ العربية إلى ثلاث لغات أوروبية، وتصنّفها حسب المجال الدلالي وطريق الانتقال.",
+    "en": "This paper compares how Arabic words entered three European languages and classifies them by semantic field and route of transmission.",
+    "es": "Este estudio compara cómo entraron las palabras árabes en tres lenguas europeas y las clasifica por campo semántico y vía de transmisión.",
+    "it": "Questa ricerca confronta il modo in cui le parole arabe sono entrate in tre lingue europee e le classifica per campo semantico e via di trasmissione.",
+    "fr": "Cette étude compare la manière dont les mots arabes sont entrés dans trois langues européennes et les classe par champ sémantique et voie de transmission."
+  },
+  "body": {
+    "ar": "## الملخص\n\nدخلت الألفاظ العربية إلى الإسبانية في الغالب عبر الاحتكاك المباشر في الأندلس، بينما دخل كثير منها إلى الإيطالية عبر صقلية والتجارة البحرية، وإلى الفرنسية عبر اللاتينية العلمية والوساطة الإيطالية والإسبانية.\n\nتصنّف الورقة عينة من الألفاظ في مجالات: الزراعة والطعام، والتجارة والإدارة، والعلوم والحساب، وتلاحظ احتفاظ الإسبانية بأداة التعريف «al» في كثير من الألفاظ مقارنة بغيرها.\n\n## المنهج\n\nمقارنة معجمية لمداخل من المعاجم التأثيلية المعيارية في اللغات الثلاث.\n\n*ورقة عمل، وتُنشر النسخة الكاملة لاحقاً.*",
+    "en": "## Abstract\n\nArabic words entered Spanish mostly through direct contact in al-Andalus, while many reached Italian through Sicily and maritime trade, and French through scientific Latin and Italian or Spanish mediation.\n\nThe paper classifies a sample of words into fields: agriculture and food, trade and administration, and science and arithmetic. It notes that Spanish kept the Arabic article *al* in many words, unlike the other two languages.\n\n## Method\n\nA lexical comparison of entries from standard etymological dictionaries of the three languages.\n\n*Working paper. The full version will be published later.*"
+  }
+}

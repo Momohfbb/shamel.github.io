@@ -1,0 +1,50 @@
+[
+  {
+    "id": "history",
+    "glyph": "ت",
+    "name": { "ar": "التاريخ", "en": "History", "es": "Historia", "it": "Storia", "fr": "Histoire" },
+    "description": {
+      "ar": "مدن وطرق تجارة وانتقال للأفكار والسلع بين الشرق والغرب.",
+      "en": "Cities, trade routes and the movement of ideas and goods between East and West.",
+      "es": "Ciudades, rutas comerciales y el tránsito de ideas y bienes entre Oriente y Occidente.",
+      "it": "Città, rotte commerciali e il passaggio di idee e merci tra Oriente e Occidente.",
+      "fr": "Villes, routes commerciales et circulation des idées et des biens entre Orient et Occident."
+    }
+  },
+  {
+    "id": "philosophy",
+    "glyph": "ف",
+    "name": { "ar": "الفلسفة والفكر", "en": "Philosophy & Thought", "es": "Filosofía y pensamiento", "it": "Filosofia e pensiero", "fr": "Philosophie et pensée" },
+    "description": {
+      "ar": "أسئلة الإنسان والمجتمع والدولة كما طرحها مفكرون عرب وتابعها العالم.",
+      "en": "Questions about people, society and the state as Arab thinkers posed them and the world took them up.",
+      "es": "Preguntas sobre el ser humano, la sociedad y el Estado tal como las plantearon pensadores árabes.",
+      "it": "Domande sull'uomo, la società e lo Stato così come le posero i pensatori arabi.",
+      "fr": "Les questions sur l'homme, la société et l'État telles que les ont posées des penseurs arabes."
+    }
+  },
+  {
+    "id": "language",
+    "glyph": "ل",
+    "name": { "ar": "اللغة والأدب", "en": "Language & Literature", "es": "Lengua y literatura", "it": "Lingua e letteratura", "fr": "Langue et littérature" },
+    "description": {
+      "ar": "الكلمات المهاجرة، والنصوص الأدبية الكبرى، وما تقوله اللغة عن تاريخها.",
+      "en": "Migrating words, great literary texts, and what language tells us about its own past.",
+      "es": "Palabras viajeras, grandes textos literarios y lo que la lengua cuenta de su pasado.",
+      "it": "Parole migranti, grandi testi letterari e ciò che la lingua racconta del suo passato.",
+      "fr": "Mots voyageurs, grands textes littéraires et ce que la langue dit de son passé."
+    }
+  },
+  {
+    "id": "science",
+    "glyph": "ع",
+    "name": { "ar": "تاريخ العلوم", "en": "History of Science", "es": "Historia de la ciencia", "it": "Storia della scienza", "fr": "Histoire des sciences" },
+    "description": {
+      "ar": "الرياضيات والفلك والطب والترجمة العلمية، من بغداد وقرطبة إلى أوروبا.",
+      "en": "Mathematics, astronomy, medicine and scientific translation, from Baghdad and Córdoba to Europe.",
+      "es": "Matemáticas, astronomía, medicina y traducción científica, de Bagdad y Córdoba a Europa.",
+      "it": "Matematica, astronomia, medicina e traduzione scientifica, da Baghdad e Cordova all'Europa.",
+      "fr": "Mathématiques, astronomie, médecine et traduction scientifique, de Bagdad et Cordoue à l'Europe."
+    }
+  }
+]

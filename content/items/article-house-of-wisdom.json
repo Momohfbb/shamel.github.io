@@ -1,0 +1,24 @@
+{
+  "id": "house-of-wisdom",
+  "type": "article",
+  "field": "science",
+  "date": "2026-09-20",
+  "title": {
+    "ar": "بيت الحكمة: ورشة الترجمة التي غيّرت تاريخ العلم",
+    "en": "The House of Wisdom: the translation workshop that changed the history of science",
+    "es": "La Casa de la Sabiduría: el taller de traducción que cambió la historia de la ciencia",
+    "it": "La Casa della Sapienza: il laboratorio di traduzione che cambiò la storia della scienza",
+    "fr": "La Maison de la sagesse : l'atelier de traduction qui a changé l'histoire des sciences"
+  },
+  "summary": {
+    "ar": "في بغداد العباسية، تُرجمت أعمال اليونان والفرس والهند إلى العربية، ومنها وُلدت كلمة «خوارزمية».",
+    "en": "In Abbasid Baghdad, Greek, Persian and Indian works were translated into Arabic, and the word algorithm was born.",
+    "es": "En la Bagdad abasí se tradujeron al árabe obras griegas, persas e indias, y de allí nació la palabra algoritmo.",
+    "it": "Nella Baghdad abbaside opere greche, persiane e indiane furono tradotte in arabo, e da lì nacque la parola algoritmo.",
+    "fr": "Dans la Bagdad abbasside, des œuvres grecques, persanes et indiennes furent traduites en arabe, et le mot algorithme est né."
+  },
+  "body": {
+    "ar": "بيت الحكمة مكتبة ومركز علمي في بغداد، ازدهر في عهد الخليفة العباسي المأمون (حكم 813–833م). جمع فيه العلماء كتب الطب والفلك والرياضيات والفلسفة من لغات عدة، وترجموها إلى العربية.\n\n## المترجمون\n\nمن أشهرهم حنين بن إسحاق، الطبيب الذي ترجم كثيراً من أعمال جالينوس وأبقراط، وكان يقارن بين عدة مخطوطات قبل أن يترجم، وهو منهج دقيق سبق عصره.\n\n## الخوارزمي\n\nعمل في بغداد في تلك الحقبة محمد بن موسى الخوارزمي، صاحب كتاب «الجبر والمقابلة». ومن اسمه اشتُقّت كلمة «algorithm» في اللغات الأوروبية، ومن عنوان كتابه جاءت كلمة «algebra».\n\n## الطريق إلى أوروبا\n\nبعد قرون، تُرجمت هذه الأعمال العربية إلى اللاتينية في طليطلة وصقلية، فوصلت إلى جامعات أوروبا وأسهمت في نهضتها العلمية.",
+    "en": "The House of Wisdom (*Bayt al-Hikma*) was a library and centre of learning in Baghdad that flourished under the Abbasid caliph al-Ma'mun (reigned 813–833). Scholars gathered books on medicine, astronomy, mathematics and philosophy from several languages and translated them into Arabic.\n\n## The translators\n\nThe best known is Hunayn ibn Ishaq, a physician who translated many works of Galen and Hippocrates. He compared several manuscripts before translating, a careful method well ahead of its time.\n\n## Al-Khwarizmi\n\nMuhammad ibn Musa al-Khwarizmi worked in Baghdad in the same period and wrote *The Compendious Book on Calculation by Completion and Balancing*. European languages took the word algorithm from his name and algebra from the title of his book.\n\n## The road to Europe\n\nCenturies later these Arabic works were translated into Latin in Toledo and Sicily, reached Europe's universities, and fed its scientific revival."
+  }
+}

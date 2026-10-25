@@ -1,0 +1,24 @@
+{
+  "id": "paper-road",
+  "type": "article",
+  "field": "history",
+  "date": "2026-10-12",
+  "title": {
+    "ar": "رحلة الورق من سمرقند إلى أوروبا",
+    "en": "How paper travelled from Samarkand to Europe",
+    "es": "Cómo viajó el papel de Samarcanda a Europa",
+    "it": "Come la carta viaggiò da Samarcanda all'Europa",
+    "fr": "Comment le papier a voyagé de Samarcande à l'Europe"
+  },
+  "summary": {
+    "ar": "اخترع الصينيون الورق، لكن العالم الإسلامي هو من نشره. قصة مادة غيّرت صناعة الكتاب من بغداد إلى شاطبة وفابريانو.",
+    "en": "China invented paper, but the Islamic world spread it. The story of a material that changed bookmaking from Baghdad to Xàtiva and Fabriano.",
+    "es": "China inventó el papel, pero el mundo islámico lo difundió. La historia de un material que cambió el libro de Bagdad a Xàtiva y Fabriano.",
+    "it": "La Cina inventò la carta, ma fu il mondo islamico a diffonderla. Storia di un materiale che cambiò il libro da Baghdad a Xàtiva e Fabriano.",
+    "fr": "La Chine a inventé le papier, mais c'est le monde islamique qui l'a diffusé. Histoire d'un matériau qui a changé le livre de Bagdad à Xàtiva et Fabriano."
+  },
+  "body": {
+    "ar": "عُرف الورق في الصين قبل الميلاد بقرون، وظل سرّ صناعته محصوراً هناك زمناً طويلاً. وتقول الرواية المشهورة إن أسرى صينيين بعد معركة طلاس سنة 751م نقلوا الصنعة إلى سمرقند، وإن كان المؤرخون اليوم يرون أن انتقالها كان أبطأ وأعقد من حادثة واحدة.\n\n## بغداد مدينة الورق\n\nفي أواخر القرن الثامن الميلادي، أيام هارون الرشيد، قامت في بغداد صناعة للورق. كان الورق أرخص من الرَّق وأيسر من البردي، فاتسعت الدواوين ونشط الوراقون، وصار للكتب سوق كاملة يُنسخ فيها ويُباع ما يطلبه القرّاء.\n\n## من دمشق والقاهرة إلى الأندلس\n\nانتشرت الصنعة غرباً إلى دمشق والقاهرة ثم فاس، حتى بلغت الأندلس. واشتهرت مدينة شاطبة (Xàtiva) قرب بلنسية بورق جيد أثنى عليه الإدريسي في القرن الثاني عشر، وكانت من أوائل مراكز صناعة الورق في أوروبا.\n\n## فابريانو والعلامة المائية\n\nفي القرن الثالث عشر طوّرت ورش فابريانو في إيطاليا الصنعة، فأدخلت العلامة المائية واستعملت الغراء الحيواني لتقوية سطح الورق. ومن هذه الورش انتشر الورق في أوروبا، ممهّداً الطريق لعصر الطباعة.\n\n> كل كتاب ورقي بين يديك اليوم يحمل أثراً من هذه الرحلة الطويلة.",
+    "en": "Paper was known in China centuries before the common era, and the secret of making it stayed there for a long time. A famous story says that Chinese prisoners taken after the Battle of Talas in 751 brought the craft to Samarkand, though historians now think the transfer was slower and more complex than a single event.\n\n## Baghdad, city of paper\n\nBy the late eighth century, in the time of Harun al-Rashid, Baghdad had its own paper industry. Paper was cheaper than parchment and easier to work with than papyrus. Government offices grew, copyists (the *warraqun*) thrived, and books gained a whole market where readers could order copies.\n\n## From Damascus and Cairo to al-Andalus\n\nThe craft moved west to Damascus, Cairo and Fez, and reached al-Andalus. The town of Xàtiva, near Valencia, became known for fine paper praised by the geographer al-Idrisi in the twelfth century, and it was one of the first paper-making centres in Europe.\n\n## Fabriano and the watermark\n\nIn the thirteenth century, workshops in Fabriano, Italy, refined the process. They introduced the watermark and sized paper with animal gelatine to strengthen its surface. From there paper spread across Europe and prepared the ground for printing.\n\n> Every paper book you hold today carries a trace of this long journey."
+  }
+}

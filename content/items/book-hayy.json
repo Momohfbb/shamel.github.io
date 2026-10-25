@@ -1,0 +1,28 @@
+{
+  "id": "hayy-ibn-yaqzan",
+  "type": "book",
+  "field": "philosophy",
+  "date": "2026-10-01",
+  "originalLanguage": "ar",
+  "author": { "ar": "ابن طفيل", "en": "Ibn Tufayl", "es": "Ibn Tufail", "it": "Ibn Tufayl", "fr": "Ibn Tufayl" },
+  "era": { "ar": "القرن 12م", "en": "12th century", "es": "Siglo XII", "it": "XII secolo", "fr": "XIIe siècle" },
+  "cover": "#5b3fa0",
+  "title": {
+    "ar": "حي بن يقظان",
+    "en": "Hayy ibn Yaqzan",
+    "es": "El filósofo autodidacto (Hayy ibn Yaqzan)",
+    "it": "Hayy ibn Yaqzan",
+    "fr": "Hayy ibn Yaqzan"
+  },
+  "summary": {
+    "ar": "قصة فلسفية أندلسية عن طفل ينشأ وحيداً على جزيرة ويصل بعقله إلى أسئلة الوجود الكبرى.",
+    "en": "A philosophical tale from al-Andalus about a child who grows up alone on an island and reasons his way to life's great questions.",
+    "es": "Un relato filosófico andalusí sobre un niño que crece solo en una isla y llega por la razón a las grandes preguntas.",
+    "it": "Un racconto filosofico andaluso su un bambino che cresce da solo su un'isola e arriva con la ragione alle grandi domande.",
+    "fr": "Un conte philosophique andalou sur un enfant qui grandit seul sur une île et parvient par la raison aux grandes questions."
+  },
+  "body": {
+    "ar": "كتب ابن طفيل، الطبيب والفيلسوف الأندلسي (توفي 1185م)، هذه القصة في بلاط الموحدين. بطلها حيّ ينشأ على جزيرة خالية من البشر، ترعاه ظبية، ثم يتعلم بالملاحظة والتفكير وحده.\n\n## فكرة الكتاب\n\nهل يستطيع العقل وحده أن يصل إلى معرفة العالم وخالقه؟ تتبّع القصة مراحل نمو حيّ من الحواس إلى التأمل الفلسفي.\n\n## أثره في أوروبا\n\nتُرجم الكتاب إلى اللاتينية سنة 1671م بعنوان «Philosophus Autodidactus»، ثم إلى لغات أوروبية عدة، وقرأه مفكرون في عصر التنوير.",
+    "en": "Ibn Tufayl, an Andalusian physician and philosopher (d. 1185), wrote this tale at the Almohad court. Its hero, Hayy, grows up on an uninhabited island, nursed by a gazelle, and learns by observation and thought alone.\n\n## The central idea\n\nCan reason alone lead to knowledge of the world and its creator? The story follows Hayy's growth from the senses to philosophical contemplation.\n\n## Its influence in Europe\n\nThe book was translated into Latin in 1671 as *Philosophus Autodidactus*, then into several European languages, and was read by thinkers of the Enlightenment."
+  }
+}

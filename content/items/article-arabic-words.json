@@ -1,0 +1,24 @@
+{
+  "id": "arabic-words",
+  "type": "article",
+  "field": "language",
+  "date": "2026-10-05",
+  "title": {
+    "ar": "كلمات عربية تعيش في الإسبانية والإيطالية والفرنسية",
+    "en": "Arabic words living in Spanish, Italian and French",
+    "es": "Palabras árabes que viven en el español, el italiano y el francés",
+    "it": "Parole arabe che vivono in spagnolo, italiano e francese",
+    "fr": "Ces mots arabes qui vivent en espagnol, en italien et en français"
+  },
+  "summary": {
+    "ar": "من «السكر» إلى «الصفر»، كلمات عربية عبرت البحر وما زالت تُستعمل كل يوم في لغات أوروبا الجنوبية.",
+    "en": "From sugar to zero, Arabic words crossed the sea and are still used every day in the languages of southern Europe.",
+    "es": "Del azúcar al cero: palabras árabes que cruzaron el mar y se siguen usando a diario en las lenguas del sur de Europa.",
+    "it": "Dallo zucchero allo zero: parole arabe che hanno attraversato il mare e si usano ancora ogni giorno nelle lingue dell'Europa del Sud.",
+    "fr": "Du sucre au zéro : des mots arabes qui ont traversé la mer et s'emploient encore chaque jour dans les langues d'Europe du Sud."
+  },
+  "body": {
+    "ar": "حين تطلب «aceite» في مطعم إسباني، فأنت تقول «الزيت» بالعربية دون أن تدري. فقرون الوجود العربي في الأندلس وصقلية، والتجارة عبر المتوسط، تركت آلاف الكلمات في لغات جنوب أوروبا.\n\n## في الإسبانية\n\nتُقدَّر الكلمات الإسبانية ذات الأصل العربي بالآلاف، وكثير منها يبدأ بـ «al» أداة التعريف العربية:\n\n- **aceite** من «الزيت»\n- **almohada** (وسادة) من «المِخدّة»\n- **alcalde** (رئيس البلدية) من «القاضي»\n- **azúcar** من «السُّكّر»\n- **ojalá** (يا ليت) من «لو شاء الله»\n\n## في الإيطالية\n\n- **zucchero** من «السكر»\n- **magazzino** (مخزن) من «مخازن»\n- **zero** من «صِفر» عبر اللاتينية الوسيطة\n\n## في الفرنسية\n\n- **magasin** من «مخازن»\n- **algèbre** من «الجبر»\n- **chiffre** (رقم) من «صِفر» أيضاً\n\nكلمة «صفر» وحدها أعطت أوروبا كلمتين: «الصفر» و«الرقم»، وهذا يلخّص أثر الحساب العربي في علوم القارة.",
+    "en": "When you order *aceite* in a Spanish restaurant, you are saying the Arabic *al-zayt* (oil) without knowing it. Centuries of Arab presence in al-Andalus and Sicily, and trade across the Mediterranean, left thousands of words in the languages of southern Europe.\n\n## In Spanish\n\nSpanish words of Arabic origin number in the thousands, and many begin with *al*, the Arabic definite article:\n\n- **aceite** from *al-zayt*, oil\n- **almohada** (pillow) from *al-mikhadda*\n- **alcalde** (mayor) from *al-qadi*, the judge\n- **azúcar** from *al-sukkar*, sugar\n- **ojalá** (if only) from *law sha' Allah*, if God wills\n\n## In Italian\n\n- **zucchero** from *sukkar*\n- **magazzino** (warehouse) from *makhazin*, storehouses\n- **zero** from *sifr* through medieval Latin\n\n## In French\n\n- **magasin** from *makhazin*\n- **algèbre** from *al-jabr*\n- **chiffre** (digit) also from *sifr*\n\nThe single word *sifr* gave Europe two words, for zero and for digit, which sums up the influence of Arabic arithmetic on the continent's science."
+  }
+}

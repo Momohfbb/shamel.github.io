@@ -1,0 +1,28 @@
+{
+  "id": "kitab-al-hayawan",
+  "type": "book",
+  "field": "language",
+  "date": "2026-09-15",
+  "originalLanguage": "ar",
+  "author": { "ar": "الجاحظ", "en": "al-Jahiz", "es": "al-Yahiz", "it": "al-Jahiz", "fr": "al-Jâhiz" },
+  "era": { "ar": "القرن 9م", "en": "9th century", "es": "Siglo IX", "it": "IX secolo", "fr": "IXe siècle" },
+  "cover": "#c08a1e",
+  "title": {
+    "ar": "كتاب الحيوان",
+    "en": "The Book of Animals",
+    "es": "El libro de los animales",
+    "it": "Il libro degli animali",
+    "fr": "Le Livre des animaux"
+  },
+  "summary": {
+    "ar": "موسوعة أدبية واسعة عن الحيوان، تمزج الملاحظة بالشعر والطرفة، من أمتع ما كُتب بالعربية.",
+    "en": "A vast literary encyclopedia of animals that blends observation with poetry and anecdote, among the most enjoyable works in Arabic prose.",
+    "es": "Una gran enciclopedia literaria de los animales que mezcla observación, poesía y anécdota.",
+    "it": "Una vasta enciclopedia letteraria degli animali che unisce osservazione, poesia e aneddoto.",
+    "fr": "Une vaste encyclopédie littéraire des animaux qui mêle observation, poésie et anecdote."
+  },
+  "body": {
+    "ar": "عاش أبو عثمان عمرو بن بحر الجاحظ في البصرة وبغداد، وتوفي سنة 255هـ (نحو 869م). ويُعدّ «كتاب الحيوان» من أكبر أعماله.\n\n## أسلوب الجاحظ\n\nلا يكتب الجاحظ كتاب علم جاف، بل يستطرد من وصف الحيوان إلى الشعر والحكاية والجدل الكلامي، فيصير الكتاب صورة لثقافة عصره كله.\n\n## لماذا يُقرأ اليوم\n\nلأنه نموذج للنثر العربي في أوج حيويته، ولأنه يضم ملاحظات مبكرة عن سلوك الحيوان وأثر البيئة فيه.",
+    "en": "Abu Uthman Amr ibn Bahr al-Jahiz lived in Basra and Baghdad and died around 869. *The Book of Animals* is one of his largest works.\n\n## His style\n\nAl-Jahiz does not write a dry scientific treatise. He digresses from describing animals into poetry, stories and theological debate, so the book becomes a portrait of the whole culture of his time.\n\n## Why read it today\n\nIt shows Arabic prose at its liveliest, and it includes early observations on animal behaviour and the influence of environment."
+  }
+}

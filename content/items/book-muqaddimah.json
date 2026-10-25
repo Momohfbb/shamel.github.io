@@ -1,0 +1,28 @@
+{
+  "id": "muqaddimah",
+  "type": "book",
+  "field": "history",
+  "date": "2026-10-10",
+  "originalLanguage": "ar",
+  "author": { "ar": "ابن خلدون", "en": "Ibn Khaldun", "es": "Ibn Jaldún", "it": "Ibn Khaldun", "fr": "Ibn Khaldoun" },
+  "era": { "ar": "1377م", "en": "1377", "es": "1377", "it": "1377", "fr": "1377" },
+  "cover": "#1d3a6e",
+  "title": {
+    "ar": "المقدمة",
+    "en": "The Muqaddimah",
+    "es": "La Muqaddima",
+    "it": "La Muqaddima",
+    "fr": "La Muqaddima"
+  },
+  "summary": {
+    "ar": "مدخل ابن خلدون إلى كتابه في التاريخ، وقد صار عملاً قائماً بذاته في فهم العمران والدولة والاقتصاد.",
+    "en": "Ibn Khaldun's introduction to his history, which became a classic in its own right on society, the state and the economy.",
+    "es": "La introducción de Ibn Jaldún a su historia universal, convertida en un clásico sobre la sociedad, el Estado y la economía.",
+    "it": "L'introduzione di Ibn Khaldun alla sua storia universale, diventata un classico sulla società, lo Stato e l'economia.",
+    "fr": "L'introduction d'Ibn Khaldoun à son histoire universelle, devenue un classique sur la société, l'État et l'économie."
+  },
+  "body": {
+    "ar": "كتب ابن خلدون «المقدمة» سنة 1377م لتكون مدخلاً إلى كتابه الكبير «كتاب العبر». لكنها تجاوزت دورها، فصارت من أهم ما كُتب في تفسير حركة المجتمعات.\n\n## ماذا تجد فيها\n\n- نقد الروايات التاريخية وطرق التحقق منها.\n- نظرية العصبية ودورة الدولة.\n- أثر البيئة والمعاش في طباع الناس.\n- آراء مبكرة في العمل والقيمة والضرائب.\n\n## لمن هذا الكتاب\n\nلكل مهتم بالتاريخ أو علم الاجتماع أو الاقتصاد السياسي. وهو متاح في طبعات محققة عديدة، وتُرجم إلى لغات كثيرة منها الإنجليزية والفرنسية والإسبانية.",
+    "en": "Ibn Khaldun wrote the *Muqaddimah* in 1377 as the introduction to his larger *Kitab al-Ibar*. It outgrew that role and became one of the most important works ever written on how societies change.\n\n## What you will find\n\n- A critique of historical reports and how to test them.\n- The theory of asabiyya and the life cycle of states.\n- How environment and livelihood shape people's character.\n- Early ideas about labour, value and taxation.\n\n## Who it is for\n\nAnyone interested in history, sociology or political economy. It exists in many critical editions and has been translated into many languages, including English, French and Spanish."
+  }
+}

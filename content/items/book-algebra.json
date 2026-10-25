@@ -1,0 +1,28 @@
+{
+  "id": "al-jabr",
+  "type": "book",
+  "field": "science",
+  "date": "2026-09-22",
+  "originalLanguage": "ar",
+  "author": { "ar": "الخوارزمي", "en": "al-Khwarizmi", "es": "al-Juarismi", "it": "al-Khwarizmi", "fr": "al-Khwârizmî" },
+  "era": { "ar": "نحو 820م", "en": "c. 820", "es": "c. 820", "it": "c. 820", "fr": "v. 820" },
+  "cover": "#a8327e",
+  "title": {
+    "ar": "الكتاب المختصر في حساب الجبر والمقابلة",
+    "en": "The Compendious Book on Calculation by Completion and Balancing",
+    "es": "Compendio de cálculo por compleción y comparación",
+    "it": "Breve opera sul calcolo per completamento e bilanciamento",
+    "fr": "Abrégé du calcul par la restauration et la comparaison"
+  },
+  "summary": {
+    "ar": "الكتاب الذي أعطى علم الجبر اسمه، وقدّم طرقاً منهجية لحل المعادلات.",
+    "en": "The book that gave algebra its name and set out systematic methods for solving equations.",
+    "es": "El libro que dio nombre al álgebra y expuso métodos sistemáticos para resolver ecuaciones.",
+    "it": "Il libro che ha dato il nome all'algebra e ha esposto metodi sistematici per risolvere le equazioni.",
+    "fr": "Le livre qui a donné son nom à l'algèbre et exposé des méthodes systématiques pour résoudre les équations."
+  },
+  "body": {
+    "ar": "ألّف محمد بن موسى الخوارزمي هذا الكتاب في بغداد نحو سنة 820م. وكلمة «الجبر» في عنوانه تعني إكمال المعادلة بنقل الحدود السالبة، و«المقابلة» تعني إسقاط الحدود المتشابهة من الطرفين.\n\n## ما الجديد فيه\n\nلم يكتف الخوارزمي بحل مسائل منفردة، بل صنّف المعادلات إلى أنواع ووضع لكل نوع طريقة حل، مع براهين هندسية. كما خصص أجزاء لتطبيقات عملية في المواريث والمساحة والتجارة.\n\n## الطريق إلى أوروبا\n\nتُرجم الكتاب إلى اللاتينية في القرن الثاني عشر، ومنه دخلت كلمة «algebra» إلى اللغات الأوروبية.",
+    "en": "Muhammad ibn Musa al-Khwarizmi wrote this book in Baghdad around 820. *Al-jabr* in its title means completing an equation by moving negative terms across, and *al-muqabala* means cancelling like terms on both sides.\n\n## What was new\n\nAl-Khwarizmi did not just solve individual problems. He sorted equations into types and gave a method for each, with geometric proofs. He also devoted sections to practical uses in inheritance, measurement and trade.\n\n## The road to Europe\n\nThe book was translated into Latin in the twelfth century, and through it the word algebra entered European languages."
+  }
+}
